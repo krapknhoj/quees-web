@@ -1,0 +1,17 @@
+{
+  "name": "quees-web",
+  "version": "0.0.1",
+  "description": "Node server for quees",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js"
+},
+  "dependencies": {
+    "express": "~4.10.x"
+  },
+  "author": "John K. Park",
+  "license": "MIT",
+  "engines": {
+    "node": "0.10.x"
+  }
+}
